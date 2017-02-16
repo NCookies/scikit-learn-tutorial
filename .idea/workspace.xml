@@ -15,65 +15,29 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1_datasets.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/1. Statistical learning/1_datasets.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2_estimatros_objects.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/1. Statistical learning/2_estimatros_objects.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1_kNN.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/2. Supervised Learning/1_kNN.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2_linear_model.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/2. Supervised Learning/2_linear_model.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="svm_gui.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/2. Supervised Learning/svm_gui.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="cross-validation.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/3. Model Selection/cross-validation.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="5" />
+              <selected id="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="clustering.ipynb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/4. Unsupervised Learning/clustering.ipynb">
+      <file leaf-file-name="pipelining.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/5. Pulling It Together/pipelining.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="4" />
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LFW.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/5. Pulling It Together/LFW.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -107,19 +71,21 @@
         <option value="$PROJECT_DIR$/1. Introduction/5_multiclass.py" />
         <option value="$PROJECT_DIR$/1. Introduction/1_load_dataset.py" />
         <option value="$PROJECT_DIR$/2. Sciencific Data Processing/1. Statistical learning/2_estimators_objects.ipynb" />
+        <option value="$PROJECT_DIR$/2. Sciencific Data Processing/1. Statistical learning/1_datasets.ipynb" />
+        <option value="$PROJECT_DIR$/2. Sciencific Data Processing/2. Supervised Learning/svm_exercise.py" />
+        <option value="$PROJECT_DIR$/2. Sciencific Data Processing/4. Unsupervised Learning/clustering.ipynb" />
+        <option value="$PROJECT_DIR$/2. Sciencific Data Processing/5. Pulling It Together/pipelining.ipynb" />
         <option value="$PROJECT_DIR$/2. Sciencific Data Processing/1. Statistical learning/2_estimatros_objects.ipynb" />
         <option value="$PROJECT_DIR$/2. Sciencific Data Processing/2. Supervised Learning/1_kNN.ipynb" />
-        <option value="$PROJECT_DIR$/2. Sciencific Data Processing/1. Statistical learning/1_datasets.ipynb" />
         <option value="$PROJECT_DIR$/2. Sciencific Data Processing/2. Supervised Learning/2_linear_model.ipynb" />
-        <option value="$PROJECT_DIR$/2. Sciencific Data Processing/2. Supervised Learning/svm_exercise.py" />
         <option value="$PROJECT_DIR$/2. Sciencific Data Processing/2. Supervised Learning/svm_gui.ipynb" />
         <option value="$PROJECT_DIR$/2. Sciencific Data Processing/3. Model Selection/cross-validation.ipynb" />
-        <option value="$PROJECT_DIR$/2. Sciencific Data Processing/4. Unsupervised Learning/clustering.ipynb" />
+        <option value="$PROJECT_DIR$/2. Sciencific Data Processing/5. Pulling It Together/LFW.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
+    <option name="x" value="1985" />
     <option name="y" value="24" />
     <option name="width" value="1855" />
     <option name="height" value="1056" />
@@ -150,6 +116,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="scikit-learn-tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scikit-learn-tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scikit-learn-tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2. Sciencific Data Processing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5. Pulling It Together" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -528,27 +512,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="1985" y="24" width="1855" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2889115" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3896236" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -758,13 +742,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/1. Statistical learning/2_estimatros_objects.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/local/lib/python2.7/dist-packages/sklearn/base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
@@ -772,31 +749,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/2. Supervised Learning/1_kNN.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1. Introduction/1_load_dataset.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/2. Supervised Learning/2_linear_model.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/1. Statistical learning/1_datasets.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="4" />
         </state>
       </provider>
     </entry>
@@ -814,6 +770,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/4. Unsupervised Learning/.ipynb_checkpoints/cnn_mnist_simple_exercise.ipynb" />
+    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/4. Unsupervised Learning/clustering.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/5. Pulling It Together/pipelining.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/1. Statistical learning/1_datasets.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/1. Statistical learning/2_estimatros_objects.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/2. Supervised Learning/1_kNN.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/2. Supervised Learning/2_linear_model.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/2. Supervised Learning/svm_gui.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -824,15 +823,14 @@
     <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/3. Model Selection/cross-validation.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="5" />
+          <selected id="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/4. Unsupervised Learning/.ipynb_checkpoints/cnn_mnist_simple_exercise.ipynb" />
-    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/4. Unsupervised Learning/clustering.ipynb">
+    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/5. Pulling It Together/LFW.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="4" />
+          <selected id="1" />
         </state>
       </provider>
     </entry>
