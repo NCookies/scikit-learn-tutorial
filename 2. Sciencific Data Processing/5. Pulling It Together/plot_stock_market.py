@@ -79,6 +79,7 @@ from sklearn import cluster, covariance, manifold
 ###############################################################################
 # Retrieve the data from Internet
 
+
 # Choose a time period reasonably calm (not too long ago so that we get
 # high-tech firms, and before the 2008 crash)
 d1 = datetime.datetime(2003, 1, 1)
