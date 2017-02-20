@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26d5d59c-ceee-40bb-9218-4ec2093ec25d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/text_analytics/load_text_data.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scikit-learn/doc/tutorial/text_analytics/solutions/exercise_02_sentiment.py" afterPath="$PROJECT_DIR$/scikit-learn/doc/tutorial/text_analytics/solutions/exercise_02_sentiment.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/text_analytics/sklearn_tut_workspace/exercise_01_language_train_model.py" afterPath="$PROJECT_DIR$/text_analytics/sklearn_tut_workspace/exercise_01_language_train_model.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/text_analytics/sklearn_tut_workspace/exercise_02_sentiment.py" afterPath="$PROJECT_DIR$/text_analytics/sklearn_tut_workspace/exercise_02_sentiment.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,46 +20,47 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="cross-validation.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/3. Model Selection/cross-validation.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pipelining.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/5. Pulling It Together/pipelining.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="plot_stock_market.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/5. Pulling It Together/plot_stock_market.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="69" column="21" lean-forward="false" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pyplot.py" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/matplotlib/pyplot.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="exercise_02_sentiment.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/text_analytics/sklearn_tut_workspace/exercise_02_sentiment.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="546">
+                  <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#426#436#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="load_text_data.ipynb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/text_analytics/load_text_data.ipynb">
+              <provider selected="true" editor-type-id="ipnb-editor">
+                <state>
+                  <selected id="24" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="exercise_01_language_train_model.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/scikit-learn/doc/tutorial/text_analytics/solutions/exercise_01_language_train_model.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="618">
+                  <caret line="70" column="0" lean-forward="true" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -90,14 +95,19 @@
         <option value="$PROJECT_DIR$/2. Sciencific Data Processing/1. Statistical learning/1_datasets.ipynb" />
         <option value="$PROJECT_DIR$/2. Sciencific Data Processing/2. Supervised Learning/svm_exercise.py" />
         <option value="$PROJECT_DIR$/2. Sciencific Data Processing/4. Unsupervised Learning/clustering.ipynb" />
-        <option value="$PROJECT_DIR$/2. Sciencific Data Processing/5. Pulling It Together/pipelining.ipynb" />
         <option value="$PROJECT_DIR$/2. Sciencific Data Processing/1. Statistical learning/2_estimatros_objects.ipynb" />
         <option value="$PROJECT_DIR$/2. Sciencific Data Processing/2. Supervised Learning/1_kNN.ipynb" />
         <option value="$PROJECT_DIR$/2. Sciencific Data Processing/2. Supervised Learning/2_linear_model.ipynb" />
         <option value="$PROJECT_DIR$/2. Sciencific Data Processing/2. Supervised Learning/svm_gui.ipynb" />
-        <option value="$PROJECT_DIR$/2. Sciencific Data Processing/3. Model Selection/cross-validation.ipynb" />
         <option value="$PROJECT_DIR$/2. Sciencific Data Processing/5. Pulling It Together/LFW.ipynb" />
         <option value="$PROJECT_DIR$/2. Sciencific Data Processing/5. Pulling It Together/plot_stock_market.py" />
+        <option value="$PROJECT_DIR$/2. Sciencific Data Processing/5. Pulling It Together/pipelining.ipynb" />
+        <option value="$PROJECT_DIR$/2. Sciencific Data Processing/3. Model Selection/cross-validation.ipynb" />
+        <option value="$PROJECT_DIR$/text_analytics/load_text_data.ipynb" />
+        <option value="$PROJECT_DIR$/text_analytics/sklearn_tut_workspace/exercise_01_language_train_model.py" />
+        <option value="$PROJECT_DIR$/scikit-learn/doc/tutorial/text_analytics/solutions/exercise_02_sentiment.py" />
+        <option value="$PROJECT_DIR$/scikit-learn/doc/tutorial/text_analytics/solutions/exercise_01_language_train_model.py" />
+        <option value="$PROJECT_DIR$/text_analytics/sklearn_tut_workspace/exercise_02_sentiment.py" />
       </list>
     </option>
   </component>
@@ -122,9 +132,40 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scikit-learn-tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scikit-learn-tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text_analytics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scikit-learn-tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scikit-learn-tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="text_analytics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sklearn_tut_workspace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="scikit-learn-tutorial" />
@@ -263,12 +304,14 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/scikit-learn/doc/tutorial/text_analytics/solutions/exercise_02_sentiment.py" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/ryu/Projects/scikit-learn-tutorial/text_analytics/sklearn_tut_workspace/exercise_01_language_train_model.py" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -283,58 +326,7 @@
       <recent name="$PROJECT_DIR$/2. Sciencific Data Processing/4. Unsupervised Learning/.ipynb_checkpoints" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.plot_stock_market">
-    <configuration default="false" name="5_multiclass" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1. Introduction" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="scikit-learn-tutorial" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1. Introduction/5_multiclass.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="1_load_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1. Introduction" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="scikit-learn-tutorial" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1. Introduction/1_load_dataset.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="svm_gui" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. Sciencific Data Processing/2. Supervised Learning" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="scikit-learn-tutorial" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. Sciencific Data Processing/2. Supervised Learning/svm_gui.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.exercise_02_sentiment">
     <configuration default="false" name="svm_exercise" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -365,6 +357,57 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="scikit-learn-tutorial" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. Sciencific Data Processing/5. Pulling It Together/plot_stock_market.py" />
+      <option name="PARAMETERS" value="../paragraphs/" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="exercise_01_language_train_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/text_analytics/sklearn_tut_workspace" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scikit-learn-tutorial" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_analytics/sklearn_tut_workspace/exercise_01_language_train_model.py" />
+      <option name="PARAMETERS" value="../paragraphs/" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="exercise_02_sentiment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/text_analytics/sklearn_tut_workspace" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scikit-learn-tutorial" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_analytics/sklearn_tut_workspace/exercise_02_sentiment.py" />
+      <option name="PARAMETERS" value="../data/movie_reviews/txt_sentoken/" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="exercise_02_sentiment (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scikit-learn/doc/tutorial/text_analytics/solutions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scikit-learn-tutorial" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scikit-learn/doc/tutorial/text_analytics/solutions/exercise_02_sentiment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -504,19 +547,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.5_multiclass" />
-      <item index="1" class="java.lang.String" itemvalue="Python.1_load_dataset" />
-      <item index="2" class="java.lang.String" itemvalue="Python.svm_gui" />
-      <item index="3" class="java.lang.String" itemvalue="Python.svm_exercise" />
-      <item index="4" class="java.lang.String" itemvalue="Python.plot_stock_market" />
+      <item index="0" class="java.lang.String" itemvalue="Python.svm_exercise" />
+      <item index="1" class="java.lang.String" itemvalue="Python.plot_stock_market" />
+      <item index="2" class="java.lang.String" itemvalue="Python.exercise_01_language_train_model" />
+      <item index="3" class="java.lang.String" itemvalue="Python.exercise_02_sentiment" />
+      <item index="4" class="java.lang.String" itemvalue="Python.exercise_02_sentiment (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.plot_stock_market" />
-        <item index="1" class="java.lang.String" itemvalue="Python.svm_exercise" />
-        <item index="2" class="java.lang.String" itemvalue="Python.svm_gui" />
-        <item index="3" class="java.lang.String" itemvalue="Python.1_load_dataset" />
-        <item index="4" class="java.lang.String" itemvalue="Python.5_multiclass" />
+        <item index="0" class="java.lang.String" itemvalue="Python.exercise_02_sentiment" />
+        <item index="1" class="java.lang.String" itemvalue="Python.exercise_01_language_train_model" />
+        <item index="2" class="java.lang.String" itemvalue="Python.exercise_02_sentiment (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.plot_stock_market" />
+        <item index="4" class="java.lang.String" itemvalue="Python.svm_exercise" />
       </list>
     </recent_temporary>
   </component>
@@ -568,49 +611,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/5. Pulling It Together/plot_stock_market.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/5. Pulling It Together/LFW.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/1. Statistical learning/1_datasets.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/1. Statistical learning/2_estimatros_objects.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/2. Supervised Learning/1_kNN.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/2. Supervised Learning/2_linear_model.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/2. Supervised Learning/svm_gui.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -853,21 +853,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/3. Model Selection/cross-validation.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/5. Pulling It Together/LFW.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/5. Pulling It Together/pipelining.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
@@ -878,7 +864,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="371">
           <caret line="561" column="4" lean-forward="true" selection-start-line="561" selection-start-column="4" selection-end-line="561" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -886,7 +871,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -894,15 +885,74 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="69" column="21" lean-forward="false" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/5. Pulling It Together/pipelining.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. Sciencific Data Processing/3. Model Selection/cross-validation.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/scipy/sparse/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="558" column="0" lean-forward="false" selection-start-line="558" selection-start-column="0" selection-end-line="558" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/matplotlib/pyplot.py">
+    <entry file="file://$PROJECT_DIR$/text_analytics/load_text_data.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scikit-learn/doc/tutorial/text_analytics/solutions/exercise_02_sentiment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding>
+            <element signature="e#426#436#0" expanded="true" />
+            <element signature="e#1788#1859#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scikit-learn/doc/tutorial/text_analytics/solutions/exercise_01_language_train_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="70" column="0" lean-forward="true" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_analytics/sklearn_tut_workspace/exercise_01_language_train_model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-          <folding />
+          <caret line="34" column="69" lean-forward="false" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+          <folding>
+            <element signature="e#367#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_analytics/sklearn_tut_workspace/exercise_02_sentiment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding>
+            <element signature="e#426#436#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

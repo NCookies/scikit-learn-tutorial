@@ -20,6 +20,8 @@ from sklearn.datasets import load_files
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
 
+import matplotlib.pyplot as plt
+
 
 if __name__ == "__main__":
     # NOTE: we put the following in a 'if __name__ == "__main__"' protected
@@ -40,15 +42,39 @@ if __name__ == "__main__":
     # TASK: Build a vectorizer / classifier pipeline that filters out tokens
     # that are too rare or too frequent
 
+    text_clf = Pipeline([
+        ('vect', TfidfVectorizer(min_df=3, max_df=0.95)),
+        ('clf', LinearSVC(C=1000)),
+    ])
+
     # TASK: Build a grid search to find out whether unigrams or bigrams are
     # more useful.
     # Fit the pipeline on the training set using grid search for the parameters
 
+    parameters = {
+        'vect__ngram_range': [(1, 1), (1, 2)],
+    }
+
+    gs_clf = GridSearchCV(text_clf, parameters, n_jobs=-1)
+    gs_clf = gs_clf.fit(docs_train, y_train)
+
     # TASK: print the cross-validated scores for the each parameters set
     # explored by the grid search
 
+    for param_name in sorted(parameters.keys()):
+        print("%s: %r" % (param_name, gs_clf.best_params_[param_name]))
+
+    n_candidates = len(gs_clf.cv_results_['params'])
+    for i in range(n_candidates):
+        print(i, 'params - %s; mean - %0.2f; std - %0.2f'
+                 % (gs_clf.cv_results_['params'][i],
+                    gs_clf.cv_results_['mean_test_score'][i],
+                    gs_clf.cv_results_['std_test_score'][i]))
+
     # TASK: Predict the outcome on the testing set and store it in a variable
     # named y_predicted
+
+    y_predicted = gs_clf.predict(docs_test)
 
     # Print the classification report
     print(metrics.classification_report(y_test, y_predicted,
@@ -58,6 +84,5 @@ if __name__ == "__main__":
     cm = metrics.confusion_matrix(y_test, y_predicted)
     print(cm)
 
-    # import matplotlib.pyplot as plt
-    # plt.matshow(cm)
-    # plt.show()
+    plt.matshow(cm)
+    plt.show()
